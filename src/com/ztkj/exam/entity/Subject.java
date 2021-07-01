@@ -8,6 +8,7 @@ public class Subject {
 	private String subjectAuthor;
 	private Date subjectDate;
 	private String subjectStatus;
+	private  int i;
 	
 	@Override
 	public String toString() {
