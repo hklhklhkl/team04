@@ -1,0 +1,163 @@
+* {
+	margin: auto;
+	padding: 0px;
+	list-style: none;
+	text-decoration: none;
+	font-family: 微软雅黑;
+}
+
+#biankuang {
+	width: 300px;
+	height: 500px;
+	float: left;
+}
+
+#biankuang a {
+	color: black;
+	text-decoration: none;
+}
+
+#biankuang a:hover {
+	font-weight: bold;
+	color: red;
+}
+
+#l1 {
+	border: 1px solid black;
+	border-radius: 5px;
+	height: 80px;
+	line-height: 80px;
+	background: url("../img/common_394_icon.png") no-repeat 10px;
+	text-indent: 100px;
+}
+
+#l2 {
+	border: 1px solid black;
+	border-radius: 5px;
+	height: 80px;
+	line-height: 80px;
+	background: url("../img/common_394_icon.png") no-repeat 10px;
+	text-indent: 100px;
+}
+
+#l3 {
+	border: 1px solid black;
+	border-radius: 5px;
+	height: 80px;
+	line-height: 80px;
+	background: url("../img/common_235_icon.png") no-repeat 10px;
+	text-indent: 100px;
+}
+
+#l4 {
+	border: 1px solid black;
+	border-radius: 5px;
+	height: 80px;
+	line-height: 80px;
+	background: url("../img/common_235_icon.png") no-repeat 10px;
+	text-indent: 100px;
+}
+
+#l5 {
+	border: 1px solid black;
+	border-radius: 5px;
+	height: 80px;
+	line-height: 80px;
+	background: url("../img/common_235_icon.png") no-repeat 10px;
+	text-indent: 100px;
+}
+
+#biankuangyou {
+	width: 983px;
+	float: left;
+	margin-left: 5px;
+	border: 1px solid #d2cccc;
+	border-radius: 10px;
+}
+
+#friend li {
+	width: 208px;
+	height: 300px;
+	border: 1px solid #d5e2f6;
+	margin: 20px 0 0 28px;
+	float: left;
+	list-style: none;
+	border-radius: 10%;
+}
+
+.hand {
+	cursor: pointer;
+}
+
+#fm {
+	margin-top: 15px;
+	margin-left: 180px;
+}
+
+.add-text {
+	width: 200px;
+	height: 30px;
+	border-radius: 10px;
+	background-color: white;
+	outline: none;
+}
+
+.add-submit {
+	width: 60px;
+	height: 30px;
+	border-radius: 5px;
+	background-color: red;
+	outline: none;
+	color: white;
+}
+
+#dabiankuang {
+	width: 1300px;
+	height: 400px;
+}
+
+#yeshu {
+	width: 980px;
+	height: 40px;
+	line-height: 20px;
+	float: left;
+	text-align: center;
+}
+
+#content {
+	width: 740px;
+	height: 430px;
+	background: #FFF8DC;
+	border-radius: 20px;
+	float: right;
+	overflow-y: auto;
+	overflow-x: -moz-scrollbars-none;
+}
+#friend a{
+	color: #8000a1;
+}
+#friend a:hover{
+	color: red;
+}
+
+.mtb10{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+#info {
+	float: left;
+	width: 240px;
+	height: 490px;
+}
+
+.info_p {
+	margin-bottom: 30px;
+}
+
+#welcome {
+	width: 100%;
+	height: 100%;
+	display: block;
+	background: url(../img/welcome.jpg)
+}
